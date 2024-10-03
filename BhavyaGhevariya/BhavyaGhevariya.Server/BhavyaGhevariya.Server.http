@@ -1,0 +1,6 @@
+@BhavyaGhevariya.Server_HostAddress = http://localhost:5251
+
+GET {{BhavyaGhevariya.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

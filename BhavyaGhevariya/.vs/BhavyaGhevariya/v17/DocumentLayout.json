@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Project Bhavya Ghevariya\\BhavyaGhevariya\\BhavyaGhevariya\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F351B157-270F-44A1-8D79-32EE98F2EB3E}|BhavyaGhevariya.Server\\BhavyaGhevariya.Server.csproj|e:\\project bhavya ghevariya\\bhavyaghevariya\\bhavyaghevariya\\bhavyaghevariya.server\\bhavyaghevariya.server.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{F351B157-270F-44A1-8D79-32EE98F2EB3E}|BhavyaGhevariya.Server\\BhavyaGhevariya.Server.csproj|solutionrelative:bhavyaghevariya.server\\bhavyaghevariya.server.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BhavyaGhevariya.Server",
+              "DocumentMoniker": "E:\\Project Bhavya Ghevariya\\BhavyaGhevariya\\BhavyaGhevariya\\BhavyaGhevariya.Server\\BhavyaGhevariya.Server.csproj",
+              "RelativeDocumentMoniker": "BhavyaGhevariya.Server\\BhavyaGhevariya.Server.csproj",
+              "ToolTip": "E:\\Project Bhavya Ghevariya\\BhavyaGhevariya\\BhavyaGhevariya\\BhavyaGhevariya.Server\\BhavyaGhevariya.Server.csproj",
+              "RelativeToolTip": "BhavyaGhevariya.Server\\BhavyaGhevariya.Server.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-03T15:10:20.583Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
